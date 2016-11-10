@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.22)  9 NOV 2016 13:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.22)  10 NOV 2016 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1034,31 +1034,10 @@ LaTeX Info: Redefining \nameref on input line 124.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-
-! Missing number, treated as zero.
-<to be read again> 
-                   {
-l.132 \textwidth{
-                 12pt}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   {
-l.132 \textwidth{
-                 12pt}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-<images/bl.png, id=4, 233.673pt x 51.0708pt>
+ <images/bl.png, id=4, 233.673pt x 51.0708pt>
 File: images/bl.png Graphic file (type png)
- <use images/bl.png>
+
+<use images/bl.png>
 Package pdftex.def Info: images/bl.png used on input line 133.
 (pdftex.def)             Requested size: 233.67242pt x 51.07066pt.
 
@@ -1121,7 +1100,7 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (2 pages, 37523 bytes).
+Output written on main.pdf (2 pages, 37335 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
